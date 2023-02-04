@@ -1,11 +1,11 @@
 # 12-Signup-and-Login-with-PHP-MySQL-and-JavaScript
 
-• create a signup page
-• validate the data on the server in PHP
-• save the signup data to a MySQL database using PHP
-• create login and logout pages
-• validate the data in the browser using JavaScript
-• validate the email using an Ajax request
+• create a signup page       <br>
+• validate the data on the server in PHP     <br>
+• save the signup data to a MySQL database using PHP   <br>
+• create login and logout pages    <br>
+• validate the data in the browser using JavaScript   <br>
+• validate the email using an Ajax request   <br>
 
 Relevant documentation:   <br>
 ‣ https://watercss.kognise.dev/    <br>
