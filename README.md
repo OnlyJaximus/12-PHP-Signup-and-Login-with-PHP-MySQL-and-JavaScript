@@ -10,7 +10,7 @@
 
 Relevant documentation:   <br>
 ‣ https://watercss.kognise.dev/    <br>
-‣ [https://www.php.net/manual/en/functio...](https://www.php.net/manual/en/function.password-hash.php)     <br>  
+‣ [https://www.php.net/manual/en/functio...](https://www.php.net/manual/en/function.password-hash.php)  <br>  
 ‣ https://just-validate.dev/    <br>
 
 
