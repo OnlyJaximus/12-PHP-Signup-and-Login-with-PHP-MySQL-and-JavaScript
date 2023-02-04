@@ -6,10 +6,11 @@
 • create login and logout pages    <br>
 • validate the data in the browser using JavaScript   <br>
 • validate the email using an Ajax request   <br>
+• password_hash
 
 Relevant documentation:   <br>
 ‣ https://watercss.kognise.dev/    <br>
-‣ https://www.php.net/manual/en/functio...     <br>
+‣ [https://www.php.net/manual/en/functio...](https://www.php.net/manual/en/function.password-hash.php)     <br>  // password_hash
 ‣ https://just-validate.dev/    <br>
 
 
